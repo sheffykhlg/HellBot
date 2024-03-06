@@ -13,19 +13,19 @@
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
-            "value": ""
+            "value": "ca53fb1dbc7e1d76cdc4d56536d1a5f9"
         },
         "API_ID": {
             "description": "Get this value from my.telegram.org",
-            "value": ""
+            "value": "28929701"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather and paste the bot token here.",
-            "value": ""
+            "value": "6997593601:AAEetE5CUEkGrAFihgPy4Q9x0xbqM2dzNtc"
         },
         "DATABASE_URL": {
             "description": "Only use mongodb url here. Get it from https://mongodb.com/",
-            "value": ""
+            "value": "mongodb+srv://filestore:filestore@cluster0.bg3spmm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
         },
         "HANDLERS": {
             "description": "Lis of handlers seperated with a space to use for userbot command trigger.",
@@ -34,11 +34,11 @@
         },
         "LOGGER_ID": {
             "description": "The chat id of your logging channel/group.",
-            "value": ""
+            "value": "-1002118388482"
         },
         "OWNER_ID": {
             "description": "Your user id.",
-            "value": ""
+            "value": "6651736713"
         },
         "HEROKU_APPNAME": {
             "description": "Your heroku app name. Get it from the top of this page.",
@@ -55,7 +55,7 @@
         },
         "DEPLOY_REPO": {
             "description": "Fillup the username/reponame of the deploy repo. Consider updating the default value with your own forked repo.",
-            "value": "The-HellBot/HellBot",
+            "value": "sheffykhlg/HellBot",
             "required": false
         }
     },
