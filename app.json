@@ -13,19 +13,19 @@
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
-            "value": "ca53fb1dbc7e1d76cdc4d56536d1a5f9"
+            "value": ""
         },
         "API_ID": {
             "description": "Get this value from my.telegram.org",
-            "value": "28929701"
+            "value": ""
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather and paste the bot token here.",
-            "value": "6997593601:AAEetE5CUEkGrAFihgPy4Q9x0xbqM2dzNtc"
+            "value": ""
         },
         "DATABASE_URL": {
             "description": "Only use mongodb url here. Get it from https://mongodb.com/",
-            "value": "mongodb+srv://filestore:filestore@cluster0.bg3spmm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+            "value": ""
         },
         "HANDLERS": {
             "description": "Lis of handlers seperated with a space to use for userbot command trigger.",
