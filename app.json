@@ -13,32 +13,32 @@
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
-            "value": ""
+            "value": "895fde5d06418650fdcce2fddebe8276"
         },
         "API_ID": {
             "description": "Get this value from my.telegram.org",
-            "value": ""
+            "value": "29023986"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather and paste the bot token here.",
-            "value": ""
+            "value": "6523471575:AAGdgpwxW19TQZETvAvEVmpjOnsErgZ2KmM"
         },
         "DATABASE_URL": {
             "description": "Only use mongodb url here. Get it from https://mongodb.com/",
-            "value": ""
+            "value": "mongodb+srv://hellbot:hellbot@hellbot.z95moia.mongodb.net/?retryWrites=true&w=majority&appName=hellbot"
         },
         "HANDLERS": {
             "description": "Lis of handlers seperated with a space to use for userbot command trigger.",
-            "value": ". ! , ?",
-            "required": false
+            "value": ".",
+            "required": true
         },
         "LOGGER_ID": {
             "description": "The chat id of your logging channel/group.",
-            "value": "-1002118388482"
+            "value": "-1002085899382"
         },
         "OWNER_ID": {
             "description": "Your user id.",
-            "value": "6651736713"
+            "value": "6756781098"
         },
         "HEROKU_APPNAME": {
             "description": "Your heroku app name. Get it from the top of this page.",
@@ -46,7 +46,7 @@
         },
         "HEROKU_APIKEY": {
             "description": "Heroku api key. Get it from https://dashboard.heroku.com/account",
-            "value": ""
+            "value": "HRKU-052df3d7-2370-4b67-b589-302e9784b9aa"
         },
         "PLUGINS_REPO": {
             "description": "Fillup the username/reponame of the plugins repo.",
